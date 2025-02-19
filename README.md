@@ -37,13 +37,17 @@
 
       - [ ] Hallucination Evaluation dataset creation.
 
-# Estimating Hallucinations In the Wild
+# How much do LLMs hallucinate **in the wild** across languages? 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2501.05122](https://arxiv.org/abs/2502.12769))
+[![Hugging Face](https://img.shields.io/badge/Collection-%F0%9F%A4%97%20Hugging%20Face-orange)](https://huggingface.co/collections/WueNLP/mhallucinations-llm-67b5aedb0e7fed1190e148d8) 
 
 Repository for the paper [How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild](https://arxiv.org/abs/2502.12769).
 
-**Contributions**
+The repository contains:
+1. The multilingual hallucination detection and multilingual hallucination evaluation datasets.
+2. The scripts use to develop the datasets and translate-train detection models.
 
-1. 
+
 
 
 
