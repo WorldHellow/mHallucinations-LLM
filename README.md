@@ -43,9 +43,17 @@
 
 Repository for the paper [How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild](https://arxiv.org/abs/2502.12769).
 
+![Pipeline](estimation_pipeline.drawio.png)
+
 The repository contains:
-1. The multilingual hallucination detection and multilingual hallucination evaluation datasets.
-2. The scripts use to develop the datasets and translate-train detection models.
+1. Datasets:
+    1. Multilingual hallucination detection dataset.
+    2. Multilingual hallucination evaluation dataset.
+4. Scripts
+    1. to develop the datasets.
+    2. to translate-train and evaluate detection models.
+    3. to collect responsees from LLMs on hallucination evaluation datasets.
+    4. to evaluation hallucination rates of LLMs.  
 
 
 
