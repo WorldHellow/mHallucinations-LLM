@@ -38,5 +38,22 @@
 
       - [ ] Hallucination Detection dataset creation.
 
-      - [ ] Hallucination Evaluation dataset creation. 
+      - [ ] Hallucination Evaluation dataset creation.
+
+
+# Citations
+
+Cite our paper
+
+```
+@misc{islam2025llmshallucinatelanguagesmultilingual,
+      title={How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild}, 
+      author={Saad Obaid ul Islam and Anne Lauscher and Goran Glavaš},
+      year={2025},
+      eprint={2502.12769},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.12769}, 
+}
+```
 
