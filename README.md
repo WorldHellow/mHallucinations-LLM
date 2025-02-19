@@ -1,6 +1,3 @@
-# Estimating Hallucinations In the Wild
-
-###
 
 - [x] Upload Dataset and Code
 
@@ -39,6 +36,15 @@
       - [ ] Hallucination Detection dataset creation.
 
       - [ ] Hallucination Evaluation dataset creation.
+
+# Estimating Hallucinations In the Wild
+
+Repository for the paper [How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild](https://arxiv.org/abs/2502.12769).
+
+**Contributions**
+
+1. 
+
 
 
 # Citations
